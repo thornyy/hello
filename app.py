@@ -1,4 +1,4 @@
-import gradio
+import gradio as gr
 def temp(fahrenheit):
     return 9/5*(fahrenheit - 32)
 
